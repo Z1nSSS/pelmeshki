@@ -22,9 +22,13 @@ systemctl restart nginx.service
 
 
 iwtm-officer
+
 ldap-user
+
 iwdm-admin добавить domain admin и administrators 
+
 user-agent
+
 user-gp
 
 для ldap:
