@@ -31,5 +31,9 @@ user-agent
 
 user-gp
 
-для ldap:
+Для ldap:
 dc=demo,dc=lab
+
+при установке дев мон выбирать PostgreSQL имя польз postgres админа officer
+
+в дев мон добавить сужбы кат
